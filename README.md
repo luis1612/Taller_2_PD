@@ -1,2 +1,2 @@
 # Taller_2_PD
-# TALLER-PD-corte-2 &lt;br> andres velez velez  &lt;br> luis edin ibarguen  &lt;br> jhon alejandro giraldo m
+# TALLER-PD-corte-2 <> andres velez velez  <br> luis edin ibarguen <br> jhon alejandro giraldo m
